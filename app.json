@@ -1,0 +1,12 @@
+{
+  "name": "RN-Gane-HangMan",
+  "displayName": "RN-Gane-HangMan",
+  "expo": {
+    "name": "RN-Gane-HangMan",
+    "slug": "RN-Gane-HangMan",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
