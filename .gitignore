@@ -62,3 +62,10 @@ buck-out/
 # Expo
 .expo/*
 web-build/
+
+# Self ignored
+_tests_
+.expo
+.expo-shared
+.vscode
+node_modules
