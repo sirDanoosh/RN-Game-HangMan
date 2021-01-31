@@ -35,6 +35,8 @@ export default function App() {
         setAnswer(arrayedData);
         setPushedKeys([]);
         setRemainGuess(7);
+        setWin(false);
+        setStatus(true);
         let arr = Array(arrayedData.length);
         let tex = "";
         for (let i = 0; i < arrayedData.length; i++) {
