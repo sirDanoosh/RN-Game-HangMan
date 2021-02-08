@@ -135,6 +135,7 @@ export default function App() {
       };
     }
   };
+  
   window.addEventListener("keypress", (e) => {
     let press: string = String.fromCharCode(e.charCode);
     setGuess(press);
